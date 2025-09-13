@@ -13,7 +13,7 @@ GitHub Repository: [https://github.com/TENETx0/web-Specter](https://github.com/T
 ## ✨ Features
 
 ### **Core Features**
-- **Command Line Usage:** `python3 infogather.py`
+- **Command Line Usage:** `python3 webspec.py`
 - **URL Input:** Prompts for website URL (e.g., `https://www.example.com/`)
 - **Loading Progress:** Animated loader similar to `nmap -v`
 - **Technology Detection:** Detects MEAN/MERN/LAMP stacks, frameworks, and databases
