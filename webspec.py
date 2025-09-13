@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
-Advanced Web Enumeration Tool
-Author: YourName
-GitHub: https://github.com/yourusername
+Web Spec
+Author: TENETx0
+GitHub: https://github.com/TENETx0/web-Specter
 Version: 1.0
 """
 
