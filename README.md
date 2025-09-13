@@ -79,4 +79,6 @@ Elasticsearch, Neo4j, CouchDB, Firebase, DynamoDB, InfluxDB, MariaDB
 ```bash
 git clone https://github.com/TENETx0/web-Specter.git
 cd web-Specter
+chmod +x install.sh
+bash install.sh
 python3 webspec.py
